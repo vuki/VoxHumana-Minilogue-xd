@@ -1,0 +1,21 @@
+{
+    "header" : 
+    {
+        "platform" : "nutekt-digital",
+        "module" : "osc",
+        "api" : "1.1-0",
+        "dev_id" : 1768650070,
+        "prg_id" : 0,
+        "version" : "1.0-0",
+        "name" : "VHuman",
+        "num_param" : 6,
+        "params" : [
+            ["Saw Rate",    0, 100, "%"],
+            ["Saw Depth",   0, 100, "%"],
+            ["Squ Rate",    0, 100, "%"],
+            ["Squ Depth",   0, 100, "%"],
+            ["PWM Rate",    0, 100, "%"],
+            ["PWM Depth",   0, 100, "%"]
+        ]
+    }
+}

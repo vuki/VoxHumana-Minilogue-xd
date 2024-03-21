@@ -1,0 +1,8 @@
+build
+*.exe
+*.*unit
+*.bak
+*.*_
+ttt.*
+*.ttt
+/logue-sdk/tools/gcc/gcc-arm-*
